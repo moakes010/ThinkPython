@@ -17,3 +17,4 @@ Solutions were developed against python version 3.6
 |16|1,2,4|
 |17|2,3,4,7|
 |18|1,2|
+|19|1,2,3,4|
